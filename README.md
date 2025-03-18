@@ -1,6 +1,6 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Inosha Sandaruwan</h1>
-<h3 align="center">Undergrad Cybersecurity Enthusiast | Passionate About Network Security, Hacking Challenges, and Digital Defense</h3>
+<h3 align="center">Passionate About Network Security, Hacking Challenges, and Digital Defense</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
 
 <table align="center">
@@ -18,7 +18,7 @@
 </td>
 <td width="50%" align="center">
 
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+  <img align="center" alt="Coding" width="450" src="[https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e](https://www.bing.com/images/search?view=detailV2&ccid=wt01I0jI&id=C00A5986DC281F4F1BACF1D5F3792CE23B8A4F9E&thid=OIP.wt01I0jIzK0zkOw0mIbFGQHaEo&mediaurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.c2dd352348c8ccad3390ec349886c519%3Frik%3Dnk%252bKO%252bIsefPV8Q%26riu%3Dhttp%253a%252f%252fvignette3.wikia.nocookie.net%252fvsbattles%252fimages%252f5%252f58%252fHacking.gif%252frevision%252flatest%253fcb%253d20150210152035%26ehk%3DMoE7WV%252fR033ooMKfkHQy4d%252bp4DxBGBlVh%252bB49Z%252bNl0Q%253d%26risl%3D%26pid%3DImgRaw%26r%3D0&exph=900&expw=1440&q=hacking+animations+gif&simid=608036962051368053&FORM=IRPRST&ck=50E64652913F989B6737AE8FEAD0FA00&selectedIndex=35&itb=0&cw=1375&ch=671&ajaxhist=0&ajaxserp=0)">
 
   
   </td>
