@@ -1,4 +1,4 @@
-![Banner](https://wallpapercave.com/wp/wp3162625.gif)
+<div style="background-image: url('https://wallpapercave.com/wp/wp3162625.gif'); background-size: cover; text-align: center; padding: 50px; color: white; font-size: 24px;">
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Inosha Sandaruwan</h1>
 <h3 align="center">Passionate About Network Security, Hacking Challenges, and Digital Defense</h3>
