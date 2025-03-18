@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inoshasandaruwan&label=Profile%20views&color=0e75b6&style=flat" alt="inoshasandaruwan" /> </p>
 
-- 🌱 I’m currently learning **Penetration Testing | Cyber Forensics**
+- 🌱 I’m currently learning **Penetration Testing | Digital Forensics**
 
 - 📝 I regularly write articles on [Medium](Medium)
 
